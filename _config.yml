@@ -1,5 +1,10 @@
 remote_theme : chesterhow/tale
 
+theme:      tale
+
+permalink:  /:year-:month-:day/:title
+paginate:   5
+
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"

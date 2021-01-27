@@ -1,10 +1,6 @@
 ---
-layout: post
 title: "[JavaScript] async vs defer, use strict"
-autor: "kathy"
-tags: JavaScript
 ---
-
 *이 글은 드림코딩 엘리님의 자바스크립트 강의를 참고하여 공부 목적으로 작성한 글입니다.<br>
 (출처: https://www.youtube.com/watch?v=tJieVCgGzhs&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=2)
 
